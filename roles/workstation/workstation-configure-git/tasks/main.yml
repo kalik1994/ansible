@@ -1,0 +1,7 @@
+---
+
+- name: Ensure gitconfig file is properly configured
+  template:
+    src: ".gitconfig"
+    dest: "{{ gitConfigPath }}"
+    mode: "0660"
