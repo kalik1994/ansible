@@ -1,0 +1,17 @@
+[user]
+    name = "{{ globalUserName }}"
+    email = "{{ globalUserEmail }}"
+<<<<<<< HEAD
+[core]
+    editor = vim
+[merge]
+    tool = vscode
+[mergetool "vscode"]
+    cmd = code --wait $MERGED
+[diff]
+    tool = vscode
+[difftool "vscode"]
+    cmd = code --wait --diff $LOCAL $REMOTE
+=======
+    
+>>>>>>> 14e0f5f721d3bf619f9d68a4585d6e341345bb24
