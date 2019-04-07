@@ -1,1 +1,1 @@
-Created: 19:00 07.03.2019 by Sylwester Kalinowski
+Created: 19:00 07.03.2019
